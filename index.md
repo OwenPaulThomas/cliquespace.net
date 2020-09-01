@@ -1,4 +1,4 @@
-# What is Clique Space™?
+# What is Clique Space?
 
 Clique Space™ is what you might use to assert ownership of things in this world. These things
 are devices that you can connect together, and together, they make the same set of assertions:
