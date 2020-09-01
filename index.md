@@ -4,6 +4,8 @@
 
 A precis of what Clique Space is about can be found at http://ssrn.com/abstract=1714848
 
+Documentation coming soon ...
+
 ## Contact Information ##
 
 * Email:    owen dot paul dot thomas at gmail dot com
