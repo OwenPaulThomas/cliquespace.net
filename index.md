@@ -1,6 +1,6 @@
 # What is Clique Space™?
 
-Clique SpaceTM is what you might use to assert ownership of things in this world. These things
+Clique Space™ is what you might use to assert ownership of things in this world. These things
 are devices that you can connect together, and together, they make the same set of assertions:
 collectively, they virtually manifest you and communicate your presence to others. Clique Space
 endeavours to extend the individual’s visceral presence over their devices and maximises this
