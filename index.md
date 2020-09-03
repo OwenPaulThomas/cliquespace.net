@@ -40,7 +40,7 @@ other as nodes in Clique Space. Any one device may be connected to a subset of a
 network, while the remainder of the network may be minimally distant from any given device by
 one or more intermediary devices. A collection of nodes may be distant in the physical sense,
 but, participating in some organised activity, they may all share direct virtual connections as two
-or more participants in a Clique, using intermediary nodes to relay distant signals.
+or more Participants in a Clique, using intermediary nodes to relay distant signals.
 
 The individual (not an organisation) is at the centre of Clique Space. Every device that
 manifests you knows a secret called "that which is sacred". This secret allows co-Sovereign
