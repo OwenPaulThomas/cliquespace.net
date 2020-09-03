@@ -65,6 +65,8 @@ from the Java API, I don’t use any third party libraries because I haven’t f
 necessary. I haven’t needed to move far beyond SE 8, and anonymous inner classes appear a
 necessary alternative to lambdas in the bulk of situations in which I use them.
 
+All source code is the property of Owen Thomas, and hence no source code is available on GitHub. This might indeed change in the future, but Owen prefers to hold his cards to his chest for now. If there is any value in these cards that Owen is holding, then  perhaps you, the reader, can share in this value by helping Owen present this technology to the world in a way that preserves Owen's proprietary stake.
+
 ## Contact Information ##
 
 * Email:    owen dot paul dot thomas at gmail dot com
