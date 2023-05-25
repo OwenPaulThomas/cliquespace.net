@@ -2,7 +2,7 @@
 
 Clique Space™ is what you might use to assert possession of things in this world. These things are devices that you can connect together, and together, they make the same set of assertions: collectively, they virtually manifest you and communicate your sovereign presence to others. Clique Space endeavours to extend the individual’s visceral presence over their devices and maximises this potential through a basic communication protocol which can be extended to transport the real-time state and control information of any device.
 
-The first design objective I am trying to achieve in my software is a system where you can, in real time, query any hardware or software device you come across for the identity of the person with whom you would be interacting with through the given device.
+The first design objective I am trying to achieve in my software is a system where you can, in real time, query any hardware or software device you come across for the identity of the person with whom you would be interacting through the given device.
 
 Secondly, this system connects devices together in a neural network so that the activity of all the devices that belong to you can be immediately communicated to you and can represent your presence to others through the collection of devices that others have connected together to represent them in way identical to the way your devices represent you.
 
