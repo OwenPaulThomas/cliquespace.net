@@ -4,7 +4,7 @@ Clique Space™ is what you might use to assert possession of things in this wor
 
 The first design objective I am trying to achieve in my software is a system where you can, in real time, query any hardware or software device you come across for the identity of the person with whom you would be interacting through the given device.
 
-Secondly, this system connects devices together in a neural network so that you, as the individual manifest through these devices, may become aware of, and can represent your presence to, others through the collection of devices that others have connected together to represent them in way identical to the way your devices represent you.
+Secondly, this system connects your devices together in a neural network so that you, as the individual manifest through these devices, may become aware of, and can represent your presence to, others through the collection of devices that others have connected together to represent them in way identical to the way your devices represent you.
 
 Your collection of devices represent you as an individual in this world to others through their collection of devices. Your devices become an extension of your real-time physical presence in this world.
 
