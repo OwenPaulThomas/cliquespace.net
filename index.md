@@ -6,7 +6,7 @@ The first design objective I am trying to achieve in my software is a system whe
 
 Secondly, this system connects your devices together in a neural network so that you, as the individual manifest through these devices, may become aware of, and can represent your presence to, others through the collection of devices that others have connected together to represent them in way identical to the way your devices represent you.
 
-Your collection of devices represent you as an individual in this world to others through their collection of devices. Your devices become an extension of your real-time physical presence in this world.
+Your collection of devices represent you as an individual in this world to others through their collection of devices. **Your devices become an extension of your real-time physical presence in this world.**
 
 Although you can almost do something similar by stringing various technologies together through shared APIs, there is nothing that will integrate them all into a "central nervous system". The notion of an individual's “Sovereign” cyber-spatial CNS is the core of my idea and was the inspiration I had in 2004. I did nothing with the idea for about 3.5 years because I had thought someone else would have already put something like this together. I do keep a lazy eye out for news like this from others, but I am still yet to see evidence appear.
 
